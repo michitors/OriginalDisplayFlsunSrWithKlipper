@@ -54,11 +54,11 @@ This is a free, open-source hobby project. If it brought your screen back to lif
 you can send a small donation with PayPal:
 
 <p>
-  <a href="https://www.paypal.com/qrcodes/p2pqrc/ELMNYD7QK9GWG"><img src="docs/donate_paypal.png" alt="Donate with PayPal" width="220"></a>
+  <a href="https://www.paypal.me/michitors"><img src="docs/donate_paypal.png" alt="Donate with PayPal" width="220"></a>
 </p>
 <p>
   <img src="docs/paypal_qr.png" alt="PayPal QR code" width="150"><br>
-  <sub>On a computer? Scan the code with your phone's camera or the PayPal app.</sub>
+  <sub>Or scan the code with your phone.</sub>
 </p>
 
 Bug reports, photos of your screen and pull requests (new languages especially) are just as welcome.
