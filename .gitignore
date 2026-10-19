@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+verifica/
+.DS_Store
+._*
+# file originali FLSUN: non sono nostri, non si pubblicano
+originale_flsun*/

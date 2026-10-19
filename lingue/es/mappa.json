@@ -1,0 +1,618 @@
+{
+ "pagine": {
+  "AVVIO": 0,
+  "PRONTA": 1,
+  "STAMPA": 2,
+  "PAUSA": 3,
+  "FILAMENTO": 4,
+  "FINITA": 5,
+  "PRERISCALDA": 6,
+  "ANNULLA": 7,
+  "FILE": 8,
+  "AVVIA": 9,
+  "REGOLA": 10
+ },
+ "testi": {
+  "20736": 30,
+  "20768": 30,
+  "21248": 24,
+  "21264": 24,
+  "21280": 24,
+  "21296": 24,
+  "21312": 24,
+  "21328": 24,
+  "21344": 24,
+  "21360": 24,
+  "21376": 24,
+  "21392": 24,
+  "21408": 8,
+  "21504": 24,
+  "21520": 24,
+  "21536": 10,
+  "21544": 10,
+  "21552": 10,
+  "21560": 10,
+  "21568": 26,
+  "21584": 26,
+  "21600": 26,
+  "21616": 26
+ },
+ "righe_lista": 5,
+ "sotto_z": [
+  "Solo esta impresión",
+  "En el límite",
+  "Error"
+ ],
+ "gruppi": {
+  "1": "pronta",
+  "2": "stampa",
+  "3": "stampa",
+  "4": "filamento",
+  "5": "finita",
+  "10": "regola"
+ },
+ "campi": {
+  "pronta": {
+   "ugello": {
+    "vp": 20992,
+    "n": 4,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–",
+     "°"
+    ],
+    "allinea": "sx"
+   },
+   "piatto": {
+    "vp": 20996,
+    "n": 4,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–",
+     "°"
+    ],
+    "allinea": "sx"
+   }
+  },
+  "stampa": {
+   "fine_ore": {
+    "vp": 21000,
+    "n": 2,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–"
+    ],
+    "allinea": "dx"
+   },
+   "fine_min": {
+    "vp": 21002,
+    "n": 2,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–"
+    ],
+    "allinea": "sx"
+   },
+   "ore": {
+    "vp": 21004,
+    "n": 2,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–"
+    ],
+    "allinea": "dx"
+   },
+   "minuti": {
+    "vp": 21006,
+    "n": 2,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–"
+    ],
+    "allinea": "sx"
+   },
+   "resta_ore": {
+    "vp": 21008,
+    "n": 2,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–"
+    ],
+    "allinea": "dx"
+   },
+   "resta_min": {
+    "vp": 21010,
+    "n": 2,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–"
+    ],
+    "allinea": "sx"
+   },
+   "filo_m": {
+    "vp": 21012,
+    "n": 3,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–"
+    ],
+    "allinea": "dx"
+   },
+   "filo_dec": {
+    "vp": 21015,
+    "n": 1,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–"
+    ],
+    "allinea": "sx"
+   },
+   "ugello": {
+    "vp": 21016,
+    "n": 3,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–"
+    ],
+    "allinea": "dx"
+   },
+   "ugello_ob": {
+    "vp": 21019,
+    "n": 5,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–",
+     "°",
+     "/ "
+    ],
+    "allinea": "sx"
+   },
+   "piatto": {
+    "vp": 21024,
+    "n": 3,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–"
+    ],
+    "allinea": "dx"
+   },
+   "piatto_ob": {
+    "vp": 21027,
+    "n": 5,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–",
+     "°",
+     "/ "
+    ],
+    "allinea": "sx"
+   }
+  },
+  "filamento": {
+   "ugello": {
+    "vp": 21032,
+    "n": 3,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–"
+    ],
+    "allinea": "dx"
+   },
+   "ugello_ob": {
+    "vp": 21035,
+    "n": 5,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–",
+     "°",
+     "/ "
+    ],
+    "allinea": "sx"
+   }
+  },
+  "finita": {
+   "ore": {
+    "vp": 21040,
+    "n": 2,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–"
+    ],
+    "allinea": "dx"
+   },
+   "minuti": {
+    "vp": 21042,
+    "n": 2,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–"
+    ],
+    "allinea": "sx"
+   },
+   "filo_m": {
+    "vp": 21044,
+    "n": 3,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–"
+    ],
+    "allinea": "dx"
+   },
+   "filo_dec": {
+    "vp": 21047,
+    "n": 1,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–"
+    ],
+    "allinea": "sx"
+   },
+   "piatto": {
+    "vp": 21048,
+    "n": 3,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–"
+    ],
+    "allinea": "dx"
+   }
+  },
+  "regola": {
+   "z_segno": {
+    "vp": 21051,
+    "n": 1,
+    "glifi": [
+     "+",
+     "−"
+    ],
+    "allinea": "dx"
+   },
+   "z_int": {
+    "vp": 21052,
+    "n": 1,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–"
+    ],
+    "allinea": "dx"
+   },
+   "z_dec": {
+    "vp": 21053,
+    "n": 2,
+    "glifi": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "–"
+    ],
+    "allinea": "sx"
+   }
+  }
+ },
+ "nascosto": 255,
+ "vp": {
+  "TASTO": 20480,
+  "VIVO": 20481,
+  "STATO": 20496,
+  "UGELLO_OB": 20498,
+  "UGELLO_BARRA": 20499,
+  "PIATTO_OB": 20501,
+  "PIATTO_BARRA": 20502,
+  "FASE": 20512,
+  "ANELLO": 20513,
+  "MATERIALE": 20528,
+  "SOTTO_FILO": 20531,
+  "PASSO": 20533,
+  "RAFFREDDA_BARRA": 20549,
+  "SOTTO_PIATTO": 20550,
+  "NOME": 20736,
+  "NOME_CENTRO": 20768,
+  "GRUPPO": 20560,
+  "CARTA_RIGA": 20561,
+  "ZPASSO": 20576,
+  "SOTTO_Z": 20577,
+  "LISTA_NOME": 21248,
+  "LISTA_INFO": 21264,
+  "LISTA_PAGINA": 21408,
+  "AVVIA_NOME": 21504,
+  "AVVIA_NOME2": 21520,
+  "AVVIA_DURATA": 21536,
+  "AVVIA_FILO": 21544,
+  "AVVIA_MATERIALE": 21552,
+  "AVVIA_TEMP": 21560,
+  "AVVIA_MSG": 21568,
+  "AVVIA_MSG2": 21584,
+  "AVVIA_ERR": 21600,
+  "AVVIA_ERR2": 21616
+ },
+ "tasti": {
+  "RAFFREDDA": 1,
+  "AZZERA": 2,
+  "PRERISCALDA_PLA": 3,
+  "PRERISCALDA_PETG": 4,
+  "PLA": 5,
+  "PETG": 6,
+  "CARICA": 7,
+  "SCARICA": 8,
+  "PASSO_1": 9,
+  "PASSO_10": 10,
+  "PASSO_50": 11,
+  "ARRETRA": 12,
+  "AVANZA": 13,
+  "FATTO": 14,
+  "PAUSA": 15,
+  "RIPRENDI": 16,
+  "ANNULLA_SI": 17,
+  "OK": 18,
+  "FILAMENTO_INDIETRO": 19,
+  "ANNULLA_NO": 20,
+  "APRI_FILAMENTO": 21,
+  "APRI_PRERISCALDA": 22,
+  "PRERISCALDA_INDIETRO": 23,
+  "APRI_ANNULLA": 24,
+  "APRI_FILE": 25,
+  "FILE_INDIETRO": 26,
+  "GRUPPO_RECENTI": 27,
+  "GRUPPO_AZ": 28,
+  "FILE_SU": 29,
+  "FILE_GIU": 30,
+  "FILE_1": 31,
+  "FILE_2": 32,
+  "FILE_3": 33,
+  "FILE_4": 34,
+  "FILE_5": 35,
+  "AVVIA_SI": 36,
+  "AVVIA_NO": 37,
+  "APRI_REGOLA": 38,
+  "REGOLA_INDIETRO": 39,
+  "Z_GIU": 40,
+  "Z_SU": 41,
+  "ZPASSO_1": 42,
+  "ZPASSO_2": 43,
+  "ZPASSO_3": 44
+ },
+ "stati": [
+  "Lista",
+  "Calentando",
+  "En temperatura",
+  "Enfriando",
+  "Ocupada",
+  "Error"
+ ],
+ "fasi": [
+  "Imprimiendo",
+  "Calentando",
+  "En pausa"
+ ],
+ "sotto_filo": [
+  "Apagado",
+  "Calienta…",
+  "Listo",
+  "Carga…",
+  "Descarga…",
+  "Mueve…",
+  "Error"
+ ],
+ "sotto_piatto": [
+  "Enfriando",
+  "Ya puedes quitarla"
+ ],
+ "lunghezza_nome": 30,
+ "colonne_nome": 26,
+ "lingua": "es",
+ "messaggi": {
+  "carico_elenco": "Cargando la lista...",
+  "non_leggo": "No se leen los archivos",
+  "manca_sd": "Falta virtual_sdcard",
+  "nessun_file": "Ningún archivo",
+  "avvio": "Iniciando la impresión...",
+  "avviata": "Impresión iniciada",
+  "occupata": "Impresora ocupada, reintenta"
+ },
+ "decimale": ","
+}
