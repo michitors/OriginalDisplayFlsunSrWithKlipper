@@ -48,6 +48,21 @@ explains the details.
 
 ![All screens (English)](docs/screens_en.png)
 
+## Support the project
+
+This is a free, open-source hobby project. If it brought your screen back to life and you'd like to say thanks,
+you can send a small donation with PayPal:
+
+<p>
+  <a href="https://www.paypal.com/qrcodes/p2pqrc/ELMNYD7QK9GWG"><img src="docs/donate_paypal.png" alt="Donate with PayPal" width="220"></a>
+</p>
+<p>
+  <img src="docs/paypal_qr.png" alt="PayPal QR code" width="150"><br>
+  <sub>On a computer? Scan the code with your phone's camera or the PayPal app.</sub>
+</p>
+
+Bug reports, photos of your screen and pull requests (new languages especially) are just as welcome.
+
 > **Status.** Working on one FLSUN SR (STM32F407 mainboard, Klipper v0.13, stock DWIN T5L screen) since
 > October 2026. It has not been tested on other printers or screen revisions. Use at your own risk, and keep a copy
 > of your original screen files.
